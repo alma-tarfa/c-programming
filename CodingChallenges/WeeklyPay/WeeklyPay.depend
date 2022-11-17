@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593907721 source:c:\users\almat\documents\cprogramming\codingchallenges\weeklypay\main.c
+	<stdio.h>
+	<stdlib.h>
+

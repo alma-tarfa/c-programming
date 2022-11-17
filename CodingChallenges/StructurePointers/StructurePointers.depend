@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594594563 source:c:\users\almat\documents\cprogramming\codingchallenges\structurepointers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

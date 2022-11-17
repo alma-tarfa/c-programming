@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594581746 source:c:\users\almat\documents\cprogramming\codingchallenges\dynamicmemory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

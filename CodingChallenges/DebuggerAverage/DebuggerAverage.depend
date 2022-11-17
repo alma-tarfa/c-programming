@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594502230 source:c:\users\almat\documents\cprogramming\codingchallenges\debuggeraverage\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,3 @@
+-I"C:\Users\almat\Documents\C Programming\CodeLite\Testing\Testing2"
+-target
+i686-pc-windows-gnu

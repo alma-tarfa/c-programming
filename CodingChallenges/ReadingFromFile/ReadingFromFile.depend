@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1595114006 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1595162742 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\fprintf.c
+	<stdio.h>
+	<stdlib.h>
+
+1595160233 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\stringreading.c
+	<stdio.h>
+
+1595160273 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\fscanfformat.c
+	<stdio.h>
+	<stdlib.h>
+
+1595164121 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\ftellexample.c
+	<stdio.h>
+	<stdlib.h>
+
+1595166316 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\findnumberoflines.c
+	<stdio.h>
+	<stdlib.h>
+
+1595168173 source:c:\users\almat\documents\cprogramming\codingchallenges\readingfromfile\uppercasethem.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

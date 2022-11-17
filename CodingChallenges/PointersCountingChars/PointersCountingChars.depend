@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594572533 source:c:\users\almat\documents\cprogramming\codingchallenges\pointerscountingchars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

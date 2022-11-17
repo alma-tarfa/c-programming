@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594498654 source:c:\users\almat\documents\cprogramming\codingchallenges\commonstringfunctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
